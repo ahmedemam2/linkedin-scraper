@@ -107,7 +107,7 @@ class LinkedinJobScraper():
 
     def to_csv(self):
         self.df = pd.DataFrame(self.jobs)
-        self.df.to_csv("output/output.csv", index=False, encoding="utf-8")
+        self.df.to_csv("output.csv", index=False, encoding="utf-8")
 
     def print_tabulated(self):
         df = self.to_csv()
