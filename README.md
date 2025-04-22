@@ -38,8 +38,8 @@ pip install -r requirements.txt
 ```
 .
 ├── scraper.py            # Main script to scrape job data
-├── output/
-│   └── output.csv        # Automatically updated daily
+├── output.csv            # Automatically updated daily
+│          
 ├── .github/
 │   └── workflows/
 │       └── scraper.yml   # GitHub Actions CI/CD workflow
