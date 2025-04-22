@@ -30,4 +30,4 @@ jobs:
           git config user.email "github-actions@github.com"
           git add output.csv
           git commit -m "Daily scrape update $(date)"
-          git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ahmedemam2/linkedin-scraper.git
