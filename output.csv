@@ -1,7 +1,7 @@
 job_id,company_name,role,applicants,job_url
 4202669828,Instaffo,FrontendDeveloper React,25,https://de.linkedin.com/jobs/view/frontenddeveloper-react-at-instaffo-4202669828?trk=public_jobs_topcard-title
-4210912509,DeepRec.ai,Machine Learning Engineer,200,https://de.linkedin.com/jobs/view/machine-learning-engineer-at-deeprec-ai-4210912509?trk=public_jobs_topcard-title
-4214583790,Reliant AI,Machine Learning Engineer,,https://de.linkedin.com/jobs/view/machine-learning-engineer-at-reliant-ai-4214583790?trk=public_jobs_topcard-title
+4210912509,DeepRec.ai,Machine Learning Engineer,,https://de.linkedin.com/jobs/view/machine-learning-engineer-at-deeprec-ai-4210912509?trk=public_jobs_topcard-title
+4214583790,Reliant AI,Machine Learning Engineer,200,https://de.linkedin.com/jobs/view/machine-learning-engineer-at-reliant-ai-4214583790?trk=public_jobs_topcard-title
 4209827103,Enjins,"Machine Learning Engineer (Berlin, Germany)",,https://de.linkedin.com/jobs/view/machine-learning-engineer-berlin-germany-at-enjins-4209827103?trk=public_jobs_topcard-title
 4204586336,Titanom Solutions,Machine Learning Engineer,25,https://de.linkedin.com/jobs/view/machine-learning-engineer-at-titanom-solutions-4204586336?trk=public_jobs_topcard-title
 4206926199,kineo.ai,Machine Learning Scientist (f/m/d),,https://de.linkedin.com/jobs/view/machine-learning-scientist-f-m-d-at-kineo-ai-4206926199?trk=public_jobs_topcard-title
@@ -9,32 +9,13 @@ job_id,company_name,role,applicants,job_url
 4077503600,SR2 | Socially Responsible Recruitment | Certified B Corporation™,Machine Learning Engineer,200,https://de.linkedin.com/jobs/view/machine-learning-engineer-at-sr2-socially-responsible-recruitment-certified-b-corporation%E2%84%A2-4077503600?trk=public_jobs_topcard-title
 4206194582,Biosero,Field Applications Scientist - Frankfurt Germany,25,https://de.linkedin.com/jobs/view/field-applications-scientist-frankfurt-germany-at-biosero-4206194582?trk=public_jobs_topcard-title
 4203903356,Branch Tech,Data Scientist,,https://de.linkedin.com/jobs/view/data-scientist-at-branch-tech-4203903356?trk=public_jobs_topcard-title
-4199115609,Dataiku,Data Scientist,,https://de.linkedin.com/jobs/view/data-scientist-at-dataiku-4199115609?trk=public_jobs_topcard-title
-4213697216,Meltwater,Data Scientist,25,https://de.linkedin.com/jobs/view/data-scientist-at-meltwater-4213697216?trk=public_jobs_topcard-title
-4205798537,7Learnings,Data Scientist,25,https://de.linkedin.com/jobs/view/data-scientist-at-7learnings-4205798537?trk=public_jobs_topcard-title
+4190432527,DFB,Data Scientist (m/w/d),25,https://de.linkedin.com/jobs/view/data-scientist-m-w-d-at-dfb-4190432527?trk=public_jobs_topcard-title
+4202674201,Instaffo,MobileDeveloper React Native,25,https://de.linkedin.com/jobs/view/mobiledeveloper-react-native-at-instaffo-4202674201?trk=public_jobs_topcard-title
+4199115609,,,,
+4211613761,,,,
+4205798537,,,,
+4207840901,,,,
 4169597845,BCG X,"Data Scientist, Internship, Germany - BCG X",,https://de.linkedin.com/jobs/view/data-scientist-internship-germany-bcg-x-at-bcg-x-4169597845?trk=public_jobs_topcard-title
-4169597846,BCG X,"Data Scientist, Internship, Germany - BCG X",,https://de.linkedin.com/jobs/view/data-scientist-internship-germany-bcg-x-at-bcg-x-4169597846?trk=public_jobs_topcard-title
-4206003564,UMATR,Machine Learning Engineer - Python - AI / Supply Chain,,https://de.linkedin.com/jobs/view/machine-learning-engineer-python-ai-supply-chain-at-umatr-4206003564?trk=public_jobs_topcard-title
-4207840901,RWE,Data Scientist d/f/m,,https://de.linkedin.com/jobs/view/data-scientist-d-f-m-at-rwe-4207840901?trk=public_jobs_topcard-title
-4169599415,BCG X,"Data Scientist, Internship, Germany - BCG X",,https://de.linkedin.com/jobs/view/data-scientist-internship-germany-bcg-x-at-bcg-x-4169599415?trk=public_jobs_topcard-title
-4204805669,sewts,MLOps Engineer (m/f/d),25,https://de.linkedin.com/jobs/view/mlops-engineer-m-f-d-at-sewts-4204805669?trk=public_jobs_topcard-title
-4184931355,Parloa,Senior Data Scientist - AI Agents & Generative AI (f/m/d)*,,https://de.linkedin.com/jobs/view/senior-data-scientist-ai-agents-generative-ai-f-m-d-at-parloa-4184931355?trk=public_jobs_topcard-title
-4202746676,CEPRES,Data Scientist (Data Strategy) (f/m/x),,https://de.linkedin.com/jobs/view/data-scientist-data-strategy-f-m-x-at-cepres-4202746676?trk=public_jobs_topcard-title
-4192050222,Storyblok,Senior Data Scientist,,https://de.linkedin.com/jobs/view/senior-data-scientist-at-storyblok-4192050222?trk=public_jobs_topcard-title
-3996395665,natif.ai,Machine Learning Engineer (m/w/d),,https://de.linkedin.com/jobs/view/machine-learning-engineer-m-w-d-at-natif-ai-3996395665?trk=public_jobs_topcard-title
-4191408109,HUK-COBURG,Senior Data Scientist – Quantitatives Portfoliomanagement (w/m/d),25,https://de.linkedin.com/jobs/view/senior-data-scientist-%E2%80%93-quantitatives-portfoliomanagement-w-m-d-at-huk-coburg-4191408109?trk=public_jobs_topcard-title
-4176317598,Crowdfox,Data Scientist (m/w/d),25,https://de.linkedin.com/jobs/view/data-scientist-m-w-d-at-crowdfox-4176317598?trk=public_jobs_topcard-title
-4209750184,Digital Waffle,Artificial Intelligence Engineer,200,https://de.linkedin.com/jobs/view/artificial-intelligence-engineer-at-digital-waffle-4209750184?trk=public_jobs_topcard-title
-4212333665,,,,
-4190833206,,,,
-4136585851,,,,
-4203311293,,,,
-4210650782,,,,
-4196601461,,,,
-4211477731,,,,
-3834278472,,,,
-4194772198,,,,
-4188342559,August-Wilhelm Scheer Institute for digitized products and processes gGmbH,Data Scientist (m/w/d) Signalverarbeitung,25,https://de.linkedin.com/jobs/view/data-scientist-m-w-d-signalverarbeitung-at-august-wilhelm-scheer-institute-for-digitized-products-and-processes-ggmbh-4188342559?trk=public_jobs_topcard-title
-4207493289,,,,
-4148278603,,,,
-4198566203,,,,
+4169597846,,,,
+4206003564,,,,
+4169599415,,,,
