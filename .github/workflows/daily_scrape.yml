@@ -24,10 +24,11 @@ jobs:
       - name: Run the scraper
         run: python scraper.py
 
-      - name: Commit and push CSV
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add output.csv
-          git commit -m "Daily scrape update $(date)"
-          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ahmedemam2/linkedin-scraper.git
+      # - name: Commit and push CSV
+      #   run: |
+      #     git config user.name "github-actions"
+      #     git config user.email "github-actions@github.com"
+      #     git add output.csv
+      #     git commit -m "Daily scrape update $(date)"
+      #     git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ahmedemam2/linkedin-scraper.git
+#Disable Workflow
